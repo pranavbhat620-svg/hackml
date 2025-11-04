@@ -1,0 +1,15 @@
+============================================================
+FINAL TEST RESULTS
+============================================================
+Games Played: 2000
+Wins: 500
+Success Rate: 0.2500 (25.00%)
+Total Wrong Guesses: 10841
+Total Repeated Guesses: 0
+Average Wrong per Game: 5.42
+Average Repeated per Game: 0.00
+============================================================
+FINAL SCORE: -53705.00
+============================================================
+
+🎯 Training complete! Final score: -53705.00
